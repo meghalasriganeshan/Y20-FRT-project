@@ -1,4 +1,4 @@
-# Kl EVENTS-BOT ✈️🧳:
+# Kl EVENTS-BOT :
 
 This project is about the website which is made for the purpose of best place to vist for users
 
@@ -29,4 +29,6 @@ Project Link:
 
 # Sample images of the project :
 
-
+![1](https://user-images.githubusercontent.com/110717475/184291230-0d32b74d-d496-43c1-85cc-a55d11e465c3.jpg)
+![2](https://user-images.githubusercontent.com/110717475/184291239-7411d732-284c-404e-a493-7aead54670ed.jpg)
+![3](https://user-images.githubusercontent.com/110717475/184291242-272e5c58-c4ad-4ee2-a3a1-b68ce30bd242.jpg)
