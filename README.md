@@ -1,7 +1,6 @@
-# Kl EVENTS-BOT :
+# MC EVENTS-BOT :
 
-This project is about the website which is made for the purpose of best place to vist for users
-
+To clarify your query about bestplaces to vist, chat with us
 
 # Azure services used in this project
 
